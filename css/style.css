@@ -1,0 +1,60 @@
+*{margin:0;padding:0;}
+
+
+body{}
+
+
+
+#form_header{
+	height:100px;
+	width:100%;
+	background-color:tomato;
+	color:white;
+	text-align:center;
+	
+	
+	
+}
+#form_box{
+	height:400px;
+	width:700;
+	margin:0px auto;
+	background-color:skyblue;
+	
+}
+#form_box h2{
+	padding:30 20;
+	
+}
+#inp_name,#inp_addr{
+	
+	height:30px;
+	width:200px;
+	background-color:transparent;
+	border:1px solid red;
+	padding-left:10;
+}
+#inp_sub{
+	margin-top:40;
+	height:50;
+	width:80;
+	background-color:tomato;
+	color:white;
+}
+
+table{
+	height:auto;
+	width:100%;
+	background-color:9289FA;
+	
+}
+tr{
+	width:100%;
+	
+}
+th{
+	background-color:tomato;
+}
+tr{
+	background-color:green;
+}
